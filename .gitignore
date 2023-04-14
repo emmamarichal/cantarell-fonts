@@ -121,5 +121,4 @@ dmypy.json
 .DS_Store
 src/*(Automatisch gesichert)*
 instance_ufos
-*.glyphs
 master_*
